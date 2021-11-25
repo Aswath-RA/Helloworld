@@ -1,2 +1,2 @@
-console.log()[D""[Dcolored cow");
+console.log("colored cow");
 //this will print colored cow
